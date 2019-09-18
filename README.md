@@ -8,5 +8,5 @@ Download and install either xampp,wampp to run this application your local machi
 
 If the environment is configured using either xampp or wamp servers, then clone or download the repo and paste it inside the htdocs folder to run the application
 
-###Username: admin
-###Password: ws
+### Username: admin
+### Password: ws
