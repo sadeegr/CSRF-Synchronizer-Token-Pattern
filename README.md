@@ -1,3 +1,3 @@
 # CSRF-Synchronizer-Token-Pattern
 
-Getting Started
+# Getting Started
